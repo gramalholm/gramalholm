@@ -1,5 +1,5 @@
 ## 🖖Hi, I'm Gabriel Ramalho
-- 🌱 I’m currently learning C# and JAVA, improving my abilities in C
+- 🌱 I’m currently learning C++, C# and JAVA, improving my abilities in C
 - 📖 Graduating Computer Science in Federal Fluminense University
 -  Working on my Portifolio
 <!---
